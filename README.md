@@ -12,7 +12,7 @@ digital banking — dari data yang tersimpan di **PostgreSQL** hingga menjadi la
 visual interaktif yang siap dipresentasikan kepada manajemen, Tim Teknis, 
 dan Direksi Bank.
 
-Dashboard dirancang mengikuti **identitas visual Bank Jatim** (dominasi merah 
+Dashboard dirancang mengikuti **identitas visual** (dominasi merah 
 #C0392B dan putih) dengan prinsip tata letak **golden ratio** untuk keterbacaan 
 optimal.
 
